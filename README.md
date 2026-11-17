@@ -21,6 +21,12 @@
 
 ![Architecture: the client opens the nginx hub, which checks the project password with the password door and serves the mock-ups and the shared template; threads go to the comment service, which emails the owner; the AI mock-up agent publishes each version on the hub and tags it in a private git archive](docs/architecture.svg)
 
+<details><summary>French version</summary>
+
+![Architecture : le client ouvre le hub nginx, qui vérifie le mot de passe du projet auprès de la porte et sert les maquettes et le gabarit commun ; les fils vont au service de commentaires, qui prévient le propriétaire par mail ; l'agent IA de maquette publie chaque version sur le hub et l'étiquette dans un dépôt git privé](docs/architecture.fr.svg)
+
+</details>
+
 ## Deployment
 
 - **Hosting.** Personal VPS, Docker behind Traefik: nginx hub, password door and comment service (both Python).

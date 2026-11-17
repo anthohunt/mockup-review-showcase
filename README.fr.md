@@ -19,7 +19,13 @@
 
 ## Architecture
 
+![Architecture : le client ouvre le hub nginx, qui vérifie le mot de passe du projet auprès de la porte et sert les maquettes et le gabarit commun ; les fils vont au service de commentaires, qui prévient le propriétaire par mail ; l'agent IA de maquette publie chaque version sur le hub et l'étiquette dans un dépôt git privé](docs/architecture.svg)
+
+<details><summary>Diagramme en français</summary>
+
 ![Architecture : le client ouvre le hub nginx, qui vérifie le mot de passe du projet auprès de la porte et sert les maquettes et le gabarit commun ; les fils vont au service de commentaires, qui prévient le propriétaire par mail ; l'agent IA de maquette publie chaque version sur le hub et l'étiquette dans un dépôt git privé](docs/architecture.fr.svg)
+
+</details>
 
 ## Déploiement
 
