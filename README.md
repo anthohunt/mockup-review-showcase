@@ -6,6 +6,12 @@
 
 [![A client comments on a button, validates a fix, switches to the phone view and opens the tracking list (click for the full video)](docs/demo.gif)](https://drive.google.com/file/d/1bsHL1GMqEnPEjqY7Iu4WtfTM4GwBkhOU/view)
 
+<details><summary>French version</summary>
+
+[![Un client commente un bouton, valide une correction, passe en vue téléphone puis ouvre le suivi (clic : vidéo complète)](docs/demo.fr.gif)](https://drive.google.com/file/d/1kWTjTzTzcR9my6LDSRhe65YpRfEufQX8/view)
+
+</details>
+
 *A client comments on a button, validates a fix, switches to the phone view, then opens the tracking list. Interface in French. [Full video (1:09)](https://drive.google.com/file/d/1bsHL1GMqEnPEjqY7Iu4WtfTM4GwBkhOU/view)*
 
 ## Using it
