@@ -4,15 +4,15 @@
 
 **Un client relit la maquette cliquable de sa future appli, et chaque remarque devient un ticket épinglé sur l'écran qu'elle concerne.**
 
-[![Un client commente un bouton, valide une correction, passe en vue téléphone puis ouvre le suivi (clic : vidéo complète) (version anglaise)](docs/demo.gif)](https://drive.google.com/file/d/1bsHL1GMqEnPEjqY7Iu4WtfTM4GwBkhOU/view)
+![Un client commente un bouton, valide une correction, passe en vue téléphone puis ouvre le suivi (clic : vidéo complète) (version anglaise)](docs/demo.gif)
 
 <details><summary>Version française</summary>
 
-[![Un client commente un bouton, valide une correction, passe en vue téléphone puis ouvre le suivi (clic : vidéo complète)](docs/demo.fr.gif)](https://drive.google.com/file/d/1kWTjTzTzcR9my6LDSRhe65YpRfEufQX8/view)
+![Un client commente un bouton, valide une correction, passe en vue téléphone puis ouvre le suivi (clic : vidéo complète)](docs/demo.fr.gif)
 
 </details>
 
-*Un client commente un bouton, valide une correction, passe en vue téléphone, puis ouvre le suivi des retours. [Vidéo complète (1:09)](https://drive.google.com/file/d/1kWTjTzTzcR9my6LDSRhe65YpRfEufQX8/view)*
+*Un client commente un bouton, valide une correction, passe en vue téléphone, puis ouvre le suivi des retours.*
 
 ## Ce qu'on fait avec
 

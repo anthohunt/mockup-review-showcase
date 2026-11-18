@@ -4,15 +4,15 @@
 
 **A client reviews the clickable mock-up of their future app, and every remark becomes a ticket pinned to the screen it is about.**
 
-[![A client comments on a button, validates a fix, switches to the phone view and opens the tracking list (click for the full video)](docs/demo.gif)](https://drive.google.com/file/d/1bsHL1GMqEnPEjqY7Iu4WtfTM4GwBkhOU/view)
+![A client comments on a button, validates a fix, switches to the phone view and opens the tracking list](docs/demo.gif)
 
 <details><summary>French version</summary>
 
-[![Un client commente un bouton, valide une correction, passe en vue téléphone puis ouvre le suivi (clic : vidéo complète)](docs/demo.fr.gif)](https://drive.google.com/file/d/1kWTjTzTzcR9my6LDSRhe65YpRfEufQX8/view)
+![Un client commente un bouton, valide une correction, passe en vue téléphone puis ouvre le suivi (clic : vidéo complète)](docs/demo.fr.gif)
 
 </details>
 
-*A client comments on a button, validates a fix, switches to the phone view, then opens the tracking list. Interface in French. [Full video (1:09)](https://drive.google.com/file/d/1bsHL1GMqEnPEjqY7Iu4WtfTM4GwBkhOU/view)*
+*A client comments on a button, validates a fix, switches to the phone view, then opens the tracking list. Interface in French.*
 
 ## Using it
 
